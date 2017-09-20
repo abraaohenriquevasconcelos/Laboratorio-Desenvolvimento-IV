@@ -1,0 +1,6 @@
+spring\config\DatabaseConfig.class
+spring\repositories\LivroRepository.class
+spring\controller\LivroController.class
+spring\model\Livro.class
+spring\Springapp1Application.class
+spring\ServletInitializer.class
